@@ -1,4 +1,4 @@
-# Project 2 - World
+# Project 2 - Wordle
 
 Submitted by: **Grace Caie**
 
